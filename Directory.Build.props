@@ -14,6 +14,7 @@
 
   <PropertyGroup>
     <FullFrameworkTFM>net472</FullFrameworkTFM>
+    <NetCoreTFM>net7.0</NetCoreTFM>
   </PropertyGroup>
 
   <PropertyGroup>
